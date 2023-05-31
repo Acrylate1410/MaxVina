@@ -3,12 +3,39 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@emotion/react": "^11.10.8",
+    "@emotion/styled": "^11.10.8",
+    "@headlessui/react": "^1.7.14",
+    "@material-tailwind/react": "^1.4.2",
+    "@mui/icons-material": "^5.11.16",
+    "@mui/material": "^5.12.3",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "antd": "^5.4.6",
+    "bootstrap": "^5.2.3",
+    "bootstrap-icons": "^1.10.5",
+    "daisyui": "^2.51.6",
+    "flowbite": "^1.6.5",
+    "flowbite-react": "^0.4.4",
+    "hamburger-react": "^2.5.0",
+    "primeicons": "^6.0.1",
+    "primereact": "^9.3.1",
     "react": "^18.2.0",
+    "react-bootstrap": "^2.7.4",
+    "react-bootstrap-icons": "^1.10.3",
     "react-dom": "^18.2.0",
+    "react-google-button": "^0.7.2",
+    "react-icons": "^4.8.0",
+    "react-modal": "^3.16.1",
+    "react-router-dom": "^6.11.1",
     "react-scripts": "5.0.1",
+    "react-sidebar": "^3.0.2",
+    "react-slick": "^0.29.0",
+    "reactjs-popup": "^2.0.5",
+    "rsuite": "^5.33.0",
+    "slick-carousel": "^1.8.1",
+    "swiper": "^8.4.6",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -34,5 +61,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.1"
   }
 }
